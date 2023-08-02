@@ -1,1 +1,337 @@
-# bigentertanment
+<!doctype>
+<html>
+
+<head>
+  <title>BIG ENTERTAINMENT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width:100%;
+     
+    }
+    td,th {
+      border: 1px solid #dddddd;
+      text-align: center;
+      padding: 4px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+  </style>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial;
+      font-size: 35px;
+    }
+
+    .container {
+      position: relative;
+      max-width: 100% margin fit-content
+    }
+
+    .container img {
+      vertical-align: middle;
+    }
+
+    .container .content {
+      position: absolute;
+      bottom: 0;
+      color:white;
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+  <style>
+    h1{text-align: center;}
+    </style>
+<style>
+  div {
+      background:rgb(209, 159, 208);
+      width: 100%;
+      padding:10px;
+      margin: 0px;
+       }
+        </style>
+     <div>
+             <p align=center><img src ="logo10.png" alt=pictur" style="width:20%;height:30%;"></a>
+              <a href="C:/Users/dell/Desktop/simple%20programs/music%20page/BIG%20ENTERTANMENT.html "><h1> BIG ENTERTAINMENT </h1>  
+             </div>  
+            </style>
+            <style>
+              body {
+                 margin: 0;
+                 font-family: Arial, Helvetica, sans-serif;
+                 }
+          
+                 .topnav {
+                  overflow: hidden;
+                  background-color: #fab300ee;
+                 }
+          
+               .topnav a {
+                 float:left;
+                 color:rgb(253, 169, 0);
+                 text-align:right ;
+                 padding: 14px 16px;
+                 text-decoration: none;
+                 font-size:35px;
+               }
+          
+               .topnav a:hover {
+                background-color: #ddd;
+                 color: rgb(0, 0, 0);
+              }
+               .topnav a.active {
+                      background-color:Orange;
+                 color: white;
+                }
+          
+                  .topnav-right{
+                    float: right;
+                     background-color:Orange;
+                 color: white;
+                }     
+          </style>
+</head>
+<body>
+  <body>
+    <div class="topnav">
+         <a class="active" href="C:/Users/dell/Desktop/simple%20programs/music%20page/BIG%20ENTERTANMENT.html">Big entertanment</a>
+          </div>
+</style>
+<body bg color = rgb(175, 238, 233)>
+</style>
+</aside> <a href="C:/Users/dell/Desktop/simple%20programs/music%20page/BIG%20ENTERTANMENT.html"><p align=center><img src="entertanment1.jpg"alt=enjoy" style="width: 100%;height:70%;"></p>   
+</style>
+<table>
+  <tr>
+     <th><h1>BENEFITS OF LISTENING MUSIC </h1></th>
+     </tr>
+     <tr>
+      <td>1.Music Makes You Happier.</td>
+      </tr>
+     <tr>
+      <td>2.Music Enhances Running Performance.</td>
+       </tr>
+      <tr>
+      <td>3.Music Lowers Stress and Improves Health.</td>
+      </tr>
+      <tr> 
+      <td>4.Music Helps You Sleep Better.</td> 
+      </tr>
+      <tr>
+      <td>5.Music Reduces Depression.</td> 
+      </tr>
+      <tr>
+      <td>6.Music Helps You Eat Less.</td>
+      </tr>
+      <tr>
+      <td>7.Music Elevates Your Mood While Driving.</td>
+      </tr>
+      <tr>
+      <td>8.Music Strengthens Learning and Memory.</td>
+      </tr>
+</table>
+</style>
+      <p align="center"><img src="pic14th.jpg" alt="girl" align =center style="width:95%;height:40%;">
+      </style>
+        <table>
+          <tr>
+            </th><h1> BENEFITS OF WATCHING MOVIES </h1></th>
+            </tr>
+            <tr>
+            <td>1.Escape from reality and entertainment</td>
+              </tr>
+            <tr>
+            <td>2.Positive impact on your overall health</td> 
+            </tr>
+            <tr>
+            <td>3.Boost your immune system</td>
+            </tr>
+            <tr>
+            <td>4.Help you cope with stress</td>
+            </tr>
+            <tr>
+            <td>5.Inspire you to be a better person</td>
+            </tr>
+            <tr>
+            <td>6.Help you learn new things</td>
+            </tr>
+            <tr>
+            <td>7.Make children more creative</td>
+            </tr>
+            <tr>
+            <td>8.Help us deal with difficult situations</td>
+            </tr>
+            </table>
+          </style> 
+     <a align="center"><img src="pic19th.jpg" alt="boys" align=center style="width:95%;height:40%;">
+</style>
+  <style> 
+  h1 {text-align: center;}
+  </style>
+  <hr>
+       <div class="topnav">
+              <h1> BIG ENTERTANMENT</h1>
+             </hr>
+          </div>
+  </style>
+</style>
+<body bg color = "white">
+              </aside><p align=lift ></p> <a href="C:/Users/dell/Desktop/simple%20programs/music%20page/BG%20SONG'S1.html"><img src="PIC1ST.jpg" alt="MUSIC" align=left style="width:49%;height:40%;">
+              <p align= right><a href="https://www.youtube.com/@BIG_ENTERTANMENT/tabou"><img src ="pic10TH.jpg" alt="music" align =right style="width:49%;height:40%;"></p>
+      </style>
+               <p align=left><a href="C:/Users/dell/Desktop/simple%20programs/music%20page/BG%20POETRY'S.html"><img src ="poetry3.jpg" alt="pictur" align =left style="width: 49%;height:40%;">
+               <p align = right><a href="C:/Users/dell/Desktop/simple%20programs/music%20page/BG%20movie's.html"><img src ="movie01.jpg" alt="pictur" align =right style="width: 49%;height:40%;"></a></p>
+      </style>
+
+<hr>
+<div class="topnav">
+<h1>ENTERTANMENT IN LIFE</h1>
+    </hr>
+  </div>
+      <p align="center"><img src="poetry2.jpg" alt="pic" align =center style="width:98%;height:40%;">
+  <table>
+      <tr>
+    <th><h1>BENEFITS OF LISTENING POETRY'S</h1></th>
+      </tr>
+      <tr>
+      <td>1.poetry is good for development learning.</td>
+      </tr>
+      <tr>
+      <td>2.poetry is good for development skills.</td>
+      </tr>
+      <tr>
+      <td>3.poetry helps impove ideas.</td>
+      </tr>
+      <tr>
+      <td>4.poetry is the rapeutic for the writer.</td>
+      </tr>
+      <tr>
+      <td>5.poetry is the rapeputic for the reader.</td>
+      </tr>
+      <tr>
+      <td>6.poetry helps you understand the significance of words the mselves.</td>
+      </tr>
+      <tr>
+      <td>7.poetry helps you understand peoples.</td>
+      </tr>
+  </table>
+</style>
+
+</style>
+ <p align= center><img src="laughing2.jpg" alt="laugh" align =center style="width:95%;height:40%;">
+  <table>
+   <tr>
+   <th><h1> BENEFITS OF LAUGHING </h1></th>
+   </tr>
+   <tr> 
+   <td>1.lowers blood pressure.</td>
+   </tr>
+   <tr>
+   <td>2.reduces stress hormone level.</td>
+   </tr>
+   <tr>
+   <td>3.works your abs.</td>
+   </tr>
+   <tr>
+   <td>4.improves cardiac health.</td>
+   </tr>
+   <tr>
+   <td>5.boosts t-cells.</td>
+   </tr>
+   <tr>
+   <td>6.triggers the release of endorphins.</td>
+   </tr>
+   <tr>
+   <td>7.produces a general sense of well-being.</td>
+   </tr>
+  </table>
+</style>
+<style>
+  p.solid {border-style: solid;}
+  </style>
+<style>
+  .fa {
+    padding: 20px;
+   font-size:20px;
+   width: 5%;
+   text-align: center;
+   text-decoration: none;
+   margin: 5px 2px;
+}
+
+  .fa:hover {
+     opacity: 0.7;
+}
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+   .fa-whatsapp {
+    background: #7CFC00;
+    color: white;
+}
+
+   .fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -black,blue;
+  }
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+</style>
+<style>
+p.solid {text-align:center;}
+</style>
+<body>
+<p class="solid">
+<!-- Add font awesome icons -->
+<a href="https://www.facebook.com/profile.php?id=100095161484699" class="fa fa-facebook"></a>
+<a href="https://wa.me/6367871223" class="fa fa-whatsapp"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<a href="https://www.youtube.com/@BIG_ENTERTANMENT/tabou"class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/bigentertanmen/" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-snapchat-ghost"></a></p>
+</style>
+</body>
+</html>
